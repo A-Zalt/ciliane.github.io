@@ -28,9 +28,17 @@ footer{
   padding-top: 10px;
   padding-left: 10px;
   color: #8B92DE;
+  font-
 }
-
-
+.divFooter {
+  background-color: #22232E;
+  height: 50px;
+  width: auto;
+  font-size: 150%;
+  padding-top: 10px;
+  padding-left: 10px;
+  color: #8B92DE;
+}
 
 a{
   color: #8B92DE;
@@ -38,9 +46,5 @@ a{
 }
 a:hover {
   color: #545889;
-  text-decoration: none;
-}
-a:visited {
-  color: #8B92DE;
   text-decoration: none;
 }
