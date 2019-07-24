@@ -1,45 +1,57 @@
 body{
   background-color: #2B2C3A;
+  font-family: 'Josefin Sans', sans-serif;
+  padding-top: 70px;
 }
 
 h1{
-  font-size: 250%; font-family: serif;
-  color: #FFD256
+  font-size: 250%;
+  color: #FFD256;
 }
 h2{
   font-family:serif;
-  color: #FFD256
+  color: #FFD256;
+  font-family: "neuropol"
 }
 h3{
-  font-size: 350%; font-family: serif;
-  color: #FFD256
+  font-size: 350%;
+  color: #FFD256;
 }
 p{
-  font-family: serif;
-  color: #FFD256
+ 
+  color: #FFD256;
 }
 footer{
-  color: #FFD256
+  color: #FFD256;
 }
-.ui {
-  background-color: #22232E;
-  height: 50px;
-  width: auto;
+.navigation {
+  background-color: #282837;
+  height: 55px;
+  width: 100%;
+  text-align: center;
   font-size: 150%;
-  padding-top: 10px;
   padding-left: 10px;
+  padding-top: 20px;
+  position: fixed;
+  margin-left: -20px;
+  margin-top: -80px;
+  border: 2px solid;
   color: #8B92DE;
 }
 .divFooter {
   background-color: #22232E;
-  height: 50px;
-  width: auto;
+  height: 55px;
+  width: 100%;
   font-size: 150%;
   padding-top: 10px;
-  padding-left: 10px;
+  padding-left: 20px;
+  margin-left: -20px;
+  margin-bottom: -40px;
+  border: 2px solid;
   color: #8B92DE;
 }
 
+/*links colors*/
 a{
   color: #8B92DE;
   text-decoration: none;
@@ -47,4 +59,14 @@ a{
 a:hover {
   color: #545889;
   text-decoration: none;
+}
+
+hr{
+  color: #545889;
+  width: 100%;
+}
+
+.faqp{
+  padding-left: 30px;
+  font-size: 125%;
 }
