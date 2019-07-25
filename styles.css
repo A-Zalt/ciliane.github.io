@@ -6,23 +6,23 @@ body{
 
 h1{
   font-size: 250%;
-  color: #FFD256;
+  color: #ffc68c;
 }
 h2{
   font-family:serif;
-  color: #FFD256;
-  font-family: "neuropol"
+  color: #ffc68c;
 }
 h3{
   font-size: 350%;
-  color: #FFD256;
+  color: #ffc68c;
 }
 p{
- 
-  color: #FFD256;
+  padding-right: 150px;
+  color: #ffc68c;
+  font-size: 125%;
 }
 footer{
-  color: #FFD256;
+  color: #ffc68c;
 }
 .navigation {
   background-color: #282837;
@@ -48,6 +48,7 @@ footer{
   margin-left: -20px;
   margin-bottom: -40px;
   border: 2px solid;
+  text-align: center;
   color: #8B92DE;
 }
 
@@ -69,4 +70,12 @@ hr{
 .faqp{
   padding-left: 30px;
   font-size: 125%;
+}
+
+.gethax{
+  text-align: center;
+}
+
+ul{
+  color: #2B2C3A
 }
