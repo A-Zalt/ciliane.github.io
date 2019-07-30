@@ -72,10 +72,30 @@ hr{
   font-size: 125%;
 }
 
-.gethax{
+.htitle{
   text-align: center;
+  font-size: 350%;
+}
+
+.h2title{
+  text-align: center;
+  font-size: 400%;
+}
+
+.ptitle{
+  text-align: center;
+  font-size: 150%;
+  padding-left: 150px;
+  padding-right: 150px;
 }
 
 ul{
   color: #2B2C3A
+}
+
+
+
+.popup{
+  display: none;
+  background-color: #404058;
 }
