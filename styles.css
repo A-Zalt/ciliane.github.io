@@ -56,10 +56,12 @@ footer{
 a{
   color: #8B92DE;
   text-decoration: none;
+  transition: 0.3s;
 }
 a:hover {
   color: #545889;
   text-decoration: none;
+  transition: 0.3s;
 }
 
 hr{
@@ -95,7 +97,6 @@ ul{
 
 
 
-.popup{
+.langmenu{
   display: none;
-  background-color: #404058;
 }
